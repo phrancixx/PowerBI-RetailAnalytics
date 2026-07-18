@@ -63,4 +63,4 @@ See [`LICENSE`](LICENSE).
 
 ## Author
 
-Francis Udochukwu Echebiri — Skillup Imo Cohort 4, Data Analytics II.
+Francis Udochukwu Echebiri
