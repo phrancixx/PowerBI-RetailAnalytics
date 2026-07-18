@@ -1,0 +1,139 @@
+SKU,Branch,Current Stock (Units),Avg Daily Sales (Units)
+SKU-3001,Tetlow,6,0.57
+SKU-3002,Owerri Main,6,0.33
+SKU-3003,Mbari,6,0.37
+SKU-3004,Tetlow,12,0.63
+SKU-3005,Owerri Main,9,0.43
+SKU-3006,Mbari,5,0.3
+SKU-3007,Tetlow,11,0.67
+SKU-3008,Owerri Main,5,0.4
+SKU-3009,Mbari,5,0.37
+SKU-3010,Tetlow,5,0.3
+SKU-3011,Owerri Main,5,0.13
+SKU-3012,Mbari,5,0.1
+SKU-3013,Tetlow,5,0.07
+SKU-3014,Owerri Main,5,0.03
+SKU-3015,Mbari,5,0.07
+SKU-3016,Tetlow,27,1.3
+SKU-3017,Owerri Main,13,1.03
+SKU-3018,Mbari,13,0.83
+SKU-3019,Tetlow,29,1.37
+SKU-3020,Owerri Main,11,1.1
+SKU-3021,Mbari,12,0.67
+SKU-3022,Tetlow,28,1.3
+SKU-3023,Owerri Main,14,1.13
+SKU-3024,Mbari,13,0.77
+SKU-3025,Tetlow,23,1.1
+SKU-3026,Owerri Main,8,0.7
+SKU-3027,Mbari,9,0.53
+SKU-3028,Tetlow,20,1.07
+SKU-3029,Owerri Main,14,0.77
+SKU-3030,Mbari,9,0.57
+SKU-3031,Tetlow,16,1.3
+SKU-3032,Owerri Main,17,1.07
+SKU-3033,Mbari,11,0.77
+SKU-3034,Tetlow,16,1.0
+SKU-3035,Owerri Main,11,0.73
+SKU-3036,Mbari,11,0.53
+SKU-3037,Tetlow,21,1.1
+SKU-3038,Owerri Main,10,0.73
+SKU-3039,Mbari,11,0.63
+SKU-3040,Tetlow,8,0.63
+SKU-3041,Owerri Main,7,0.43
+SKU-3042,Mbari,5,0.33
+SKU-3043,Tetlow,5,0.23
+SKU-3044,Owerri Main,5,0.2
+SKU-3045,Mbari,5,0.13
+SKU-3046,Tetlow,15,0.8
+SKU-3047,Owerri Main,9,0.6
+SKU-3048,Mbari,9,0.43
+SKU-3049,Tetlow,5,0.4
+SKU-3050,Owerri Main,6,0.3
+SKU-3051,Mbari,5,0.23
+SKU-3052,Tetlow,5,0.2
+SKU-3053,Owerri Main,5,0.17
+SKU-3054,Mbari,5,0.07
+SKU-3055,Tetlow,5,0.2
+SKU-3056,Owerri Main,5,0.13
+SKU-3057,Mbari,5,0.1
+SKU-3058,Tetlow,5,0.07
+SKU-3059,Owerri Main,5,0.03
+SKU-3060,Mbari,5,0.03
+SKU-3061,Tetlow,17,0.8
+SKU-3062,Owerri Main,9,0.47
+SKU-3063,Mbari,5,0.27
+SKU-3064,Tetlow,9,0.63
+SKU-3065,Owerri Main,8,0.47
+SKU-3066,Mbari,5,0.33
+SKU-3067,Tetlow,9,0.4
+SKU-3068,Owerri Main,5,0.23
+SKU-3069,Mbari,5,0.2
+SKU-3070,Tetlow,5,0.33
+SKU-3071,Owerri Main,5,0.27
+SKU-3072,Mbari,5,0.13
+SKU-3073,Tetlow,5,0.07
+SKU-3074,Owerri Main,5,0.03
+SKU-3075,Mbari,5,0.03
+SKU-3076,Tetlow,14,0.9
+SKU-3077,Owerri Main,7,0.63
+SKU-3078,Mbari,233,0.23
+SKU-3079,Tetlow,11,0.73
+SKU-3080,Owerri Main,8,0.43
+SKU-3081,Mbari,299,0.2
+SKU-3082,Tetlow,12,0.6
+SKU-3083,Owerri Main,8,0.43
+SKU-3084,Mbari,230,0.17
+SKU-3085,Tetlow,7,0.37
+SKU-3086,Owerri Main,5,0.27
+SKU-3087,Mbari,348,0.1
+SKU-3088,Tetlow,5,0.2
+SKU-3089,Owerri Main,5,0.1
+SKU-3090,Mbari,266,0.23
+SKU-3091,Tetlow,11,0.8
+SKU-3092,Owerri Main,7,0.43
+SKU-3093,Mbari,6,0.33
+SKU-3094,Tetlow,14,0.73
+SKU-3095,Owerri Main,6,0.5
+SKU-3096,Mbari,6,0.33
+SKU-3097,Tetlow,5,0.43
+SKU-3098,Owerri Main,5,0.23
+SKU-3099,Mbari,5,0.17
+SKU-3100,Tetlow,7,0.43
+SKU-3101,Owerri Main,5,0.27
+SKU-3102,Mbari,5,0.23
+SKU-3103,Tetlow,5,0.07
+SKU-3104,Owerri Main,5,0.03
+SKU-3105,Mbari,5,0.03
+SKU-3106,Tetlow,17,1.1
+SKU-3107,Owerri Main,12,0.8
+SKU-3108,Mbari,7,0.67
+SKU-3109,Tetlow,17,1.03
+SKU-3110,Owerri Main,10,0.6
+SKU-3111,Mbari,8,0.4
+SKU-3112,Tetlow,9,0.4
+SKU-3113,Owerri Main,5,0.33
+SKU-3114,Mbari,5,0.27
+SKU-3115,Tetlow,8,0.43
+SKU-3116,Owerri Main,5,0.27
+SKU-3117,Mbari,5,0.27
+SKU-3118,Tetlow,5,0.2
+SKU-3119,Owerri Main,5,0.2
+SKU-3120,Mbari,5,0.1
+SKU-3121,Tetlow,51,2.5
+SKU-3122,Owerri Main,17,1.67
+SKU-3123,Mbari,22,1.37
+SKU-3124,Tetlow,46,2.33
+SKU-3125,Owerri Main,35,1.63
+SKU-3126,Mbari,16,1.2
+SKU-3127,Tetlow,29,2.43
+SKU-3128,Owerri Main,35,1.7
+SKU-3129,Mbari,26,1.23
+SKU-3130,Tetlow,31,2.47
+SKU-3131,Owerri Main,26,1.73
+SKU-3132,Mbari,20,1.07
+SKU-3133,Tetlow,50,2.47
+SKU-3134,Owerri Main,20,1.67
+SKU-3135,Mbari,24,1.33
+SKU-3136,Tetlow,47,2.4
+SKU-3137,Owerri Main,28,1.67
+SKU-3138,Mbari,15,1.27

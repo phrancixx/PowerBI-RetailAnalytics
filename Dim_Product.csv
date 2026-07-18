@@ -1,0 +1,139 @@
+SKU,Branch,Category,Brand,Product,Unit Cost (NGN),Unit Price (NGN),Lead Time (Days)
+SKU-3001,Tetlow,Mobile Phones,Tecno,Spark 20,160300.0,180000,10
+SKU-3002,Owerri Main,Mobile Phones,Tecno,Spark 20,165600.0,180000,21
+SKU-3003,Mbari,Mobile Phones,Tecno,Spark 20,166200.0,180000,14
+SKU-3004,Tetlow,Mobile Phones,Tecno,Spark 20 Pro,186100.0,210000,10
+SKU-3005,Owerri Main,Mobile Phones,Tecno,Spark 20 Pro,185000.0,210000,10
+SKU-3006,Mbari,Mobile Phones,Tecno,Spark 20 Pro,195200.0,210000,14
+SKU-3007,Tetlow,Mobile Phones,Tecno,Camon 20,214100.0,230000,10
+SKU-3008,Owerri Main,Mobile Phones,Tecno,Camon 20,212200.0,230000,14
+SKU-3009,Mbari,Mobile Phones,Tecno,Camon 20,214700.0,230000,14
+SKU-3010,Tetlow,Mobile Phones,Tecno,Camon 20 Pro,247100.0,270000,14
+SKU-3011,Owerri Main,Mobile Phones,Tecno,Camon 20 Pro,247800.0,270000,10
+SKU-3012,Mbari,Mobile Phones,Tecno,Camon 20 Pro,253300.0,270000,18
+SKU-3013,Tetlow,Mobile Phones,Tecno,Phantom X2,674200.0,750000,18
+SKU-3014,Owerri Main,Mobile Phones,Tecno,Phantom X2,661100.0,750000,21
+SKU-3015,Mbari,Mobile Phones,Tecno,Phantom X2,696800.0,750000,21
+SKU-3016,Tetlow,Mobile Phones,Itel,A70,60600.0,68000,21
+SKU-3017,Owerri Main,Mobile Phones,Itel,A70,60300.0,68000,21
+SKU-3018,Mbari,Mobile Phones,Itel,A70,60500.0,68000,18
+SKU-3019,Tetlow,Mobile Phones,Itel,A60s,68700.0,75000,21
+SKU-3020,Owerri Main,Mobile Phones,Itel,A60s,69500.0,75000,10
+SKU-3021,Mbari,Mobile Phones,Itel,A60s,67800.0,75000,21
+SKU-3022,Tetlow,Mobile Phones,Itel,P55,86100.0,95000,21
+SKU-3023,Owerri Main,Mobile Phones,Itel,P55,87000.0,95000,21
+SKU-3024,Mbari,Mobile Phones,Itel,P55,86500.0,95000,21
+SKU-3025,Tetlow,Mobile Phones,Itel,S23,108000.0,115000,14
+SKU-3026,Owerri Main,Mobile Phones,Itel,S23,104500.0,115000,18
+SKU-3027,Mbari,Mobile Phones,Itel,S23,106700.0,115000,21
+SKU-3028,Tetlow,Mobile Phones,Itel,S23+,119100.0,135000,18
+SKU-3029,Owerri Main,Mobile Phones,Itel,S23+,119400.0,135000,14
+SKU-3030,Mbari,Mobile Phones,Itel,S23+,119100.0,135000,14
+SKU-3031,Tetlow,Mobile Phones,Infinix,Smart 8,76300.0,85000,21
+SKU-3032,Owerri Main,Mobile Phones,Infinix,Smart 8,78300.0,85000,10
+SKU-3033,Mbari,Mobile Phones,Infinix,Smart 8,78800.0,85000,10
+SKU-3034,Tetlow,Mobile Phones,Infinix,Hot 40,134800.0,145000,21
+SKU-3035,Owerri Main,Mobile Phones,Infinix,Hot 40,130700.0,145000,21
+SKU-3036,Mbari,Mobile Phones,Infinix,Hot 40,129900.0,145000,21
+SKU-3037,Tetlow,Mobile Phones,Infinix,Hot 40 Pro,152500.0,165000,18
+SKU-3038,Owerri Main,Mobile Phones,Infinix,Hot 40 Pro,155000.0,165000,14
+SKU-3039,Mbari,Mobile Phones,Infinix,Hot 40 Pro,152800.0,165000,21
+SKU-3040,Tetlow,Mobile Phones,Infinix,Note 40,205400.0,230000,18
+SKU-3041,Owerri Main,Mobile Phones,Infinix,Note 40,212500.0,230000,18
+SKU-3042,Mbari,Mobile Phones,Infinix,Note 40,209300.0,230000,10
+SKU-3043,Tetlow,Mobile Phones,Infinix,Note 40 Pro,261400.0,290000,14
+SKU-3044,Owerri Main,Mobile Phones,Infinix,Note 40 Pro,258000.0,290000,14
+SKU-3045,Mbari,Mobile Phones,Infinix,Note 40 Pro,266600.0,290000,18
+SKU-3046,Tetlow,Mobile Phones,Samsung,Galaxy A05,105900.0,120000,14
+SKU-3047,Owerri Main,Mobile Phones,Samsung,Galaxy A05,112500.0,120000,18
+SKU-3048,Mbari,Mobile Phones,Samsung,Galaxy A05,107600.0,120000,21
+SKU-3049,Tetlow,Mobile Phones,Samsung,Galaxy A15,201500.0,215000,21
+SKU-3050,Owerri Main,Mobile Phones,Samsung,Galaxy A15,190400.0,215000,10
+SKU-3051,Mbari,Mobile Phones,Samsung,Galaxy A15,193900.0,215000,18
+SKU-3052,Tetlow,Mobile Phones,Samsung,Galaxy A25,251300.0,280000,10
+SKU-3053,Owerri Main,Mobile Phones,Samsung,Galaxy A25,246700.0,280000,14
+SKU-3054,Mbari,Mobile Phones,Samsung,Galaxy A25,256700.0,280000,10
+SKU-3055,Tetlow,Mobile Phones,Samsung,Galaxy A35,348600.0,380000,21
+SKU-3056,Owerri Main,Mobile Phones,Samsung,Galaxy A35,346900.0,380000,18
+SKU-3057,Mbari,Mobile Phones,Samsung,Galaxy A35,342800.0,380000,10
+SKU-3058,Tetlow,Mobile Phones,Samsung,Galaxy S24,795100.0,850000,21
+SKU-3059,Owerri Main,Mobile Phones,Samsung,Galaxy S24,790500.0,850000,18
+SKU-3060,Mbari,Mobile Phones,Samsung,Galaxy S24,749200.0,850000,10
+SKU-3061,Tetlow,Mobile Phones,Oppo,A18,101100.0,110000,10
+SKU-3062,Owerri Main,Mobile Phones,Oppo,A18,100200.0,110000,14
+SKU-3063,Mbari,Mobile Phones,Oppo,A18,101900.0,110000,14
+SKU-3064,Tetlow,Mobile Phones,Oppo,A38,132300.0,150000,18
+SKU-3065,Owerri Main,Mobile Phones,Oppo,A38,134900.0,150000,21
+SKU-3066,Mbari,Mobile Phones,Oppo,A38,133900.0,150000,10
+SKU-3067,Tetlow,Mobile Phones,Oppo,A58,173800.0,190000,18
+SKU-3068,Owerri Main,Mobile Phones,Oppo,A58,170100.0,190000,21
+SKU-3069,Mbari,Mobile Phones,Oppo,A58,176800.0,190000,21
+SKU-3070,Tetlow,Mobile Phones,Oppo,A78,214500.0,230000,18
+SKU-3071,Owerri Main,Mobile Phones,Oppo,A78,203700.0,230000,14
+SKU-3072,Mbari,Mobile Phones,Oppo,A78,207200.0,230000,21
+SKU-3073,Tetlow,Mobile Phones,Oppo,Reno 11,432300.0,480000,18
+SKU-3074,Owerri Main,Mobile Phones,Oppo,Reno 11,424500.0,480000,14
+SKU-3075,Mbari,Mobile Phones,Oppo,Reno 11,440400.0,480000,21
+SKU-3076,Tetlow,Mobile Phones,Huawei,Y5p,53900.0,60000,14
+SKU-3077,Owerri Main,Mobile Phones,Huawei,Y5p,55100.0,60000,21
+SKU-3078,Mbari,Mobile Phones,Huawei,Y5p,53900.0,60000,18
+SKU-3079,Tetlow,Mobile Phones,Huawei,Y9 Prime,102800.0,110000,14
+SKU-3080,Owerri Main,Mobile Phones,Huawei,Y9 Prime,99800.0,110000,18
+SKU-3081,Mbari,Mobile Phones,Huawei,Y9 Prime,100200.0,110000,18
+SKU-3082,Tetlow,Mobile Phones,Huawei,Nova Y61,133600.0,150000,18
+SKU-3083,Owerri Main,Mobile Phones,Huawei,Nova Y61,136400.0,150000,14
+SKU-3084,Mbari,Mobile Phones,Huawei,Nova Y61,133400.0,150000,18
+SKU-3085,Tetlow,Mobile Phones,Huawei,Nova 11i,199500.0,220000,14
+SKU-3086,Owerri Main,Mobile Phones,Huawei,Nova 11i,203300.0,220000,21
+SKU-3087,Mbari,Mobile Phones,Huawei,Nova 11i,205900.0,220000,21
+SKU-3088,Tetlow,Mobile Phones,Huawei,Nova 12i,235500.0,260000,21
+SKU-3089,Owerri Main,Mobile Phones,Huawei,Nova 12i,237500.0,260000,10
+SKU-3090,Mbari,Mobile Phones,Huawei,Nova 12i,240400.0,260000,14
+SKU-3091,Tetlow,Mobile Phones,Vivo,Y17s,125800.0,140000,14
+SKU-3092,Owerri Main,Mobile Phones,Vivo,Y17s,126700.0,140000,21
+SKU-3093,Mbari,Mobile Phones,Vivo,Y17s,126700.0,140000,10
+SKU-3094,Tetlow,Mobile Phones,Vivo,Y18,150100.0,165000,14
+SKU-3095,Owerri Main,Mobile Phones,Vivo,Y18,154400.0,165000,14
+SKU-3096,Mbari,Mobile Phones,Vivo,Y18,154200.0,165000,18
+SKU-3097,Tetlow,Mobile Phones,Vivo,Y28,175300.0,190000,14
+SKU-3098,Owerri Main,Mobile Phones,Vivo,Y28,167200.0,190000,21
+SKU-3099,Mbari,Mobile Phones,Vivo,Y28,168800.0,190000,10
+SKU-3100,Tetlow,Mobile Phones,Vivo,Y36,215100.0,230000,10
+SKU-3101,Owerri Main,Mobile Phones,Vivo,Y36,215600.0,230000,21
+SKU-3102,Mbari,Mobile Phones,Vivo,Y36,207400.0,230000,14
+SKU-3103,Tetlow,Mobile Phones,Vivo,V29,370800.0,420000,10
+SKU-3104,Owerri Main,Mobile Phones,Vivo,V29,370500.0,420000,14
+SKU-3105,Mbari,Mobile Phones,Vivo,V29,385900.0,420000,18
+SKU-3106,Tetlow,Mobile Phones,Redmi,A3,69400.0,75000,14
+SKU-3107,Owerri Main,Mobile Phones,Redmi,A3,69200.0,75000,21
+SKU-3108,Mbari,Mobile Phones,Redmi,A3,66100.0,75000,14
+SKU-3109,Tetlow,Mobile Phones,Redmi,Note 12,140900.0,150000,10
+SKU-3110,Owerri Main,Mobile Phones,Redmi,Note 12,132100.0,150000,21
+SKU-3111,Mbari,Mobile Phones,Redmi,Note 12,140800.0,150000,18
+SKU-3112,Tetlow,Mobile Phones,Redmi,Note 13,169500.0,185000,18
+SKU-3113,Owerri Main,Mobile Phones,Redmi,Note 13,168100.0,185000,21
+SKU-3114,Mbari,Mobile Phones,Redmi,Note 13,164900.0,185000,18
+SKU-3115,Tetlow,Mobile Phones,Redmi,Note 13 Pro,212000.0,240000,10
+SKU-3116,Owerri Main,Mobile Phones,Redmi,Note 13 Pro,220500.0,240000,14
+SKU-3117,Mbari,Mobile Phones,Redmi,Note 13 Pro,221000.0,240000,10
+SKU-3118,Tetlow,Mobile Phones,Redmi,Note 13 Pro+,286400.0,320000,14
+SKU-3119,Owerri Main,Mobile Phones,Redmi,Note 13 Pro+,286300.0,320000,18
+SKU-3120,Mbari,Mobile Phones,Redmi,Note 13 Pro+,289900.0,320000,14
+SKU-3121,Tetlow,Phone Accessories,Generic,Type-C USB Cable,690.0,1500,5
+SKU-3122,Owerri Main,Phone Accessories,Generic,Type-C USB Cable,880.0,1500,3
+SKU-3123,Mbari,Phone Accessories,Generic,Type-C USB Cable,740.0,1500,5
+SKU-3124,Tetlow,Phone Accessories,Generic,Phone Stand,1330.0,2800,5
+SKU-3125,Owerri Main,Phone Accessories,Generic,Phone Stand,1450.0,2800,3
+SKU-3126,Mbari,Phone Accessories,Generic,Phone Stand,1590.0,2800,7
+SKU-3127,Tetlow,Phone Accessories,Generic,Selfie Stick,1890.0,3500,3
+SKU-3128,Owerri Main,Phone Accessories,Generic,Selfie Stick,1930.0,3500,7
+SKU-3129,Mbari,Phone Accessories,Generic,Selfie Stick,1970.0,3500,3
+SKU-3130,Tetlow,Phone Accessories,Generic,Power Bank 10000mAh,3970.0,8500,7
+SKU-3131,Owerri Main,Phone Accessories,Generic,Power Bank 10000mAh,4210.0,8500,5
+SKU-3132,Mbari,Phone Accessories,Generic,Power Bank 10000mAh,4740.0,8500,7
+SKU-3133,Tetlow,Phone Accessories,Generic,Wired Earpiece,920.0,2000,5
+SKU-3134,Owerri Main,Phone Accessories,Generic,Wired Earpiece,950.0,2000,7
+SKU-3135,Mbari,Phone Accessories,Generic,Wired Earpiece,1070.0,2000,3
+SKU-3136,Tetlow,Phone Accessories,Generic,Screen Protector,630.0,1200,7
+SKU-3137,Owerri Main,Phone Accessories,Generic,Screen Protector,700.0,1200,5
+SKU-3138,Mbari,Phone Accessories,Generic,Screen Protector,610.0,1200,5
